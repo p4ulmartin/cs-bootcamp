@@ -8,7 +8,7 @@
 #! @output output_1: Generated description
 #!
 #! @result SUCCESS: Operation completed successfully.
-#! @result FAILURE: Failure occurred during execution.
+#!
 #!!#
 ########################################################################################################################
 
